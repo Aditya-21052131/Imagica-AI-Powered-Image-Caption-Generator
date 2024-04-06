@@ -25,9 +25,12 @@ Running the Script: Jupyter Notebook: Open the script in a Jupyter notebook cell
 Image Path: Replace the placeholder "path/to/your/image.jpg" in the code with the actual path to your image file.
 Example Usage:
 
+
 Python
 image_path = "path/to/your/image.jpg"  # Replace with your image path
 caption = generate_caption(image_path)
 print(f"Generated Caption: {caption}")
 Use code with caution.
+
+
 Developed by: Aditya Kumar
